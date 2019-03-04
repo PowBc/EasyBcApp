@@ -1,3 +1,5 @@
+# Forked from lichuan/askcoin
+
 ## Askcoin
 
 Askcoin is a cryptocurrency for real-time Q&A. It was born to achieve freedom of speech and question-and-answer worldwide. It's decentralized and ASIC-resistant, this is achieved by a new POW consensus algorithm.
