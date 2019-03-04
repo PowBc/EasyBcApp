@@ -1,0 +1,43 @@
+
+Entering 'depend/fly'
+commit 7e70912fa9ba5880c5c3be612de2b13fb7f890ad
+Entering 'depend/fly/depend/cryptopp'
+commit 18ccd89965acb3fe6f67e6cdb2ded613868112ed
+Entering 'depend/fly/depend/rapidjson'
+commit 17ae6ffa857173c25708e61610121bc908c0a6cd
+Entering 'depend/fly/depend/rapidjson/thirdparty/gtest'
+commit 0a439623f75c029912728d80cb7f1b8b48739ca4
+Entering 'depend/leveldb'
+commit 47cb9e2a211e1d7157078ba7bab536beb29e56dc
+Entering 'depend/openssl'
+commit 8a4b8ca9da1ed2322e0d28f4fe8a629c1376f15e
+Entering 'depend/secp256k1'
+commit 6ad5cdb42a1a8257289a0423d644dcbdeab0f83c
+Entering 'depend/snappy'
+commit 193fc5d11b819b15826dc382a20f1e5729fa5004
+
+Entering 'depend/fly'
+origin	https://github.com/lichuan/fly.git (fetch)
+origin	https://github.com/lichuan/fly.git (push)
+Entering 'depend/fly/depend/cryptopp'
+origin	https://github.com/lichuan/cryptopp.git (fetch)
+origin	https://github.com/lichuan/cryptopp.git (push)
+Entering 'depend/fly/depend/rapidjson'
+origin	https://github.com/lichuan/rapidjson.git (fetch)
+origin	https://github.com/lichuan/rapidjson.git (push)
+Entering 'depend/fly/depend/rapidjson/thirdparty/gtest'
+origin	https://github.com/google/googletest.git (fetch)
+origin	https://github.com/google/googletest.git (push)
+Entering 'depend/leveldb'
+origin	https://github.com/lichuan/leveldb.git (fetch)
+origin	https://github.com/lichuan/leveldb.git (push)
+Entering 'depend/openssl'
+origin	https://github.com/lichuan/openssl-1.0.2k.git (fetch)
+origin	https://github.com/lichuan/openssl-1.0.2k.git (push)
+Entering 'depend/secp256k1'
+origin	https://github.com/lichuan/secp256k1.git (fetch)
+origin	https://github.com/lichuan/secp256k1.git (push)
+Entering 'depend/snappy'
+origin	https://github.com/lichuan/snappy.git (fetch)
+origin	https://github.com/lichuan/snappy.git (push)
+
